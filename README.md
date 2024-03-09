@@ -212,6 +212,7 @@ pipeline {
     }
 }
 ```
+![image](https://github.com/vikash-kumar01/DevSecOps_Project/assets/35370115/3f45f20c-77f2-48f2-993d-1e5834f1edec)
 
 Certainly, here are the instructions without step numbers:
 
