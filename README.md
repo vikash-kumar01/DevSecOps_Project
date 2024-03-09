@@ -544,6 +544,7 @@ sudo systemctl restart jenkins
 
    `http://<your-prometheus-ip>:9090/targets`
 
+![image](https://github.com/vikash-kumar01/DevSecOps_Project/assets/35370115/4d4ec205-a06a-4bd0-9bf6-2956599e7ec1)
 
 ####Grafana
 
@@ -656,6 +657,8 @@ You should now have a Grafana dashboard set up to visualize metrics from Prometh
 Grafana is a powerful tool for creating visualizations and dashboards, and you can further customize it to suit your specific monitoring needs.
 
 That's it! You've successfully installed and set up Grafana to work with Prometheus for monitoring and visualization.
+
+![image](https://github.com/vikash-kumar01/DevSecOps_Project/assets/35370115/70747389-2fb1-48e7-9b38-f71e5392b9b8)
 
 2. **Configure Prometheus Plugin Integration:**
     - Integrate Jenkins with Prometheus to monitor the CI/CD pipeline.
