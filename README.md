@@ -335,7 +335,7 @@ pipeline{
     }
 }
 
-![image](https://github.com/vikash-kumar01/DevSecOps_Project/assets/35370115/a46a0978-8286-4c1e-bd91-ae95b0c994e7)
+
 
 If you get docker login failed errorr
 
@@ -345,6 +345,7 @@ sudo systemctl restart jenkins
 
 
 ```
+![image](https://github.com/vikash-kumar01/DevSecOps_Project/assets/35370115/a46a0978-8286-4c1e-bd91-ae95b0c994e7)
 
 **Phase 4: Monitoring**
 
